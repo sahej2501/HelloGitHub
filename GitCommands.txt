@@ -1,0 +1,6 @@
+git add path/to/changed/file/or/directory : This command helps stage the file
+git commit -m “Made some changes” : This command helps commit the file 
+git checkout –b MyNewBranch : allows you to get new branch 
+Git clone : Clones a repository into a newly created directory
+
+
